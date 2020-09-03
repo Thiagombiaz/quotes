@@ -1,3 +1,4 @@
 Some line
 One more line added
 New line
+Second new line
