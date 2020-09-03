@@ -1,2 +1,3 @@
 Some line
-I like red
+One more line added
+New line
